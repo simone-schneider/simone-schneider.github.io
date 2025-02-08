@@ -1,0 +1,47 @@
+title_html: "Simone Schneider"
+title: "Simone Schneider"
+description: ""
+url: https://www.simone-schneider.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/" # the subpath of your site, e.g. "/blog"
+
+# Author Information
+email: "ss2633@cam.ac.uk"
+contact: "e-mail"
+
+langs: ["en"]
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+  - files
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - REMDE.md
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
