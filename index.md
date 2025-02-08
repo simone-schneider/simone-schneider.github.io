@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Simone Schneider"
+title: "About me"
 layout: page
 ---
 
