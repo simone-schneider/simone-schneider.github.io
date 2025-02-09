@@ -1,5 +1,6 @@
 ---
-permalink: /teching
+permalink: /teaching
 title: "Teaching"
 layout: page
 ---
+...
