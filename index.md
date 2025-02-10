@@ -4,7 +4,7 @@ title: "About me"
 layout: page
 ---
 
-![Simone Schneider](Schneider_photo_bw.jpeg){:style="float:right; margin:15px; width: 40%;"}
+![Simone Schneider](Schneider_photo_bw.png){:style="float:right; margin:15px; width: 40%;"}
 
 Simone Schneider is a doctoral researcher in the Department of Sociology at the [University of Cambridge](https://research.sociology.cam.ac.uk/profile/simone-schneider-2022). Her research interests span the areas of intimacy, sexuality, social inequality, and social theory.
 
