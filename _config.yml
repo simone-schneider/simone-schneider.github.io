@@ -40,6 +40,8 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - rss.html
+  - rss.svg
 keep_files:
   - .git
   - .svn
