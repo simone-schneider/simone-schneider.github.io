@@ -12,4 +12,3 @@ In her dissertation project, Simone explores meanings and experiences of infidel
 
 Simone studied Sociology, European Ethnology and Cultural Analysis, and Communication Science at the University of Cambridge (MPhil), the University of Amsterdam (MSc), and the Ludwig-Maximilians-Universität München (BA, BA). Alongside her academic training, Simone gained experience in social research, including working for the Scottish Government, the Max Planck Institute for Social Law and Social Policy, and the Amsterdam Research Centre for Gender and Sexuality.
 
-
