@@ -4,7 +4,7 @@ title: "Publications"
 layout: page
 ---
 
-#### Publications
+<font size="5">**Publications**</font><br />
 
 Schneider, S. (2025). ["'Because like if you feel guilty, then it's usually a sign': On the role of emotions in conceptualising infidelity."](https://doi.org/10.1332/26316897Y2025D000000056) *Emotions and Society*, online first. 
 
