@@ -6,5 +6,4 @@ layout: page
 
 **Teaching**
 
-
-I teach Critical Approaches to Discourse Analysis for Master and PhD students at the University of Cambridge (2023-present). I also supervise undergraduate students in Introduction to Sociology and teach a Qualitative Research Methods seminar. In 2025, I co-lead a course on Sex, Power and Gender within the Pembroke Cambridge Summer Programme. Previously, I taught Qualitative Research and Academic Skills for undergraduate students at the University of Amsterdam.
+At the University of Cambridge, I teach [Critical Approaches to Discourse Analysis](https://www.researchmethods.group.cam.ac.uk/modules/critical-approaches-to-discourse-analysis-lt/) for Master and PhD students, as well as Introduction to Sociology and Qualitative Research Methods for undergraduate students. In 2025, I am leading a course on [Sex, Power and Gender](https://www.pem.cam.ac.uk/international-programmes/pembroke-cambridge-summer-programme/course-portfolio/sex-power-and-gender) in the [Pembroke Cambridge Summer Programme](https://www.pem.cam.ac.uk/international-programmes/pembroke-cambridge-summer-programme). Previously, I taught Qualitative Research and Academic Skills for undergraduate students at the University of Amsterdam.
