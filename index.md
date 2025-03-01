@@ -1,8 +1,9 @@
 ---
 permalink: /
 title: "About me"
-layout: page
+layout: about
 ---
+
 
 ![Simone Schneider](Schneider_photo_bw.png){:style="float:right; margin:15px; width: 40%;"}
 
