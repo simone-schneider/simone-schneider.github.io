@@ -4,6 +4,8 @@ title: "Teaching"
 layout: page
 ---
 
+**Teaching**
+
 I have extensive experience designing and delivering methodological and substantive modules from the undergraduate to PhD level. 
 
 At the University of Cambridge, I teach [Critical Approaches to Discourse Analysis](https://www.researchmethods.group.cam.ac.uk/modules/critical-approaches-to-discourse-analysis-lt/) for Master and PhD students, as well as Introduction to Sociology and Qualitative Research Methods for undergraduate students. 
