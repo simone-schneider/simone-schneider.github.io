@@ -12,4 +12,4 @@ Schneider, S. (2025) ["'Some kind of cheating': Boundary transgressions and open
 
 Schneider, S. & Velthuis, O. "Managing intimacy: How sex workers negotiate boundaries on webcam platforms." Revise and Resubmit, *Sexualities*.
 
-Schneider, S. "Caring for yourself and caring for your partner? The discursive legitimisation of infidelity on dating platforms." Submitted to *New Media & Society*.
+Schneider, S. "Caring for yourself and caring for your partner? The discursive legitimisation of infidelity on dating platforms." Under review at *New Media & Society*.
