@@ -13,4 +13,4 @@ I'm a visiting researcher at the [University of Amsterdam](https://aissr.uva.nl)
 In my research, I study cultural and social processes of intimacy and sexuality. My dissertation examines meanings and practices of infidelity in intimate relationships. As part of this project, I conduct qualitative interviews with people who experienced infidelity, and a discourse analysis of dating platforms geared at infidelity.
 
 Through the lens of infidelity, I engage with wider questions around intimate relationships, social norms, and inequality. You can find out more about my work in a recent [episode of the ePODstemology podcast](https://open.spotify.com/episode/5a1NqXbLalwLlqgXX4jhrA?si=378c2a0d7c7e4e22) for which I was interviewed.
- 
+  
