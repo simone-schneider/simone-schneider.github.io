@@ -13,5 +13,3 @@ Schneider, S. (2025) ['Some kind of cheating': Boundary transgressions and open 
 Schneider, S. & Velthuis, O. (2026) [Managing intimacy: How sex workers negotiate boundaries on webcam platforms.](https://journals.sagepub.com/doi/10.1177/13634607251352674) *Sexualities*, *29*(1-2): 227-245.
 
 Schneider, S. (2026) [Caring for yourself and caring for your partner? The discursive legitimisation of infidelity on dating platforms.](https://journals.sagepub.com/doi/10.1177/14614448261424208)" *New Media & Society*, online first.
-
-Schneider, S. No harm, no problem? Non-consensual non-monogamy and the persistence of gendered narratives. Submitted to *Gender & Society*.
