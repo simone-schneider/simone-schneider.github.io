@@ -10,7 +10,7 @@ Hi! I'm a doctoral researcher in the Department of Sociology at the [University 
 
 I'm a visiting researcher at the [University of Amsterdam](https://aissr.uva.nl) in autumn 2025, at [LSE](https://www.lse.ac.uk/sociology) in winter term 2026, and a member of the [Ethical Dating Online network](https://www.ethicaldatingonline.com). My research interests span intimacy, sexuality, gender, and social inequalites.
 
-In my research, I study cultural and social processes of intimacy and sexuality. My dissertation examines meanings and practices of infidelity in intimate relationships. As part of this project, I conduct qualitative interviews with people who experienced infidelity, and a discourse analysis of dating platforms geared at infidelity.
+In my research, I study cultural and social processes of intimacy and sexuality. My dissertation examines experiences and meanings of infidelity in intimate relationships. As part of this project, I conduct qualitative interviews with people who experienced infidelity, and a discourse analysis of dating platforms geared at infidelity.
 
 Through the lens of infidelity, I engage with wider questions around intimate relationships, social norms, and inequality. You can find out more about my work in a recent [episode of the ePODstemology podcast](https://open.spotify.com/episode/5a1NqXbLalwLlqgXX4jhrA?si=378c2a0d7c7e4e22) for which I was interviewed. 
 
